@@ -1,0 +1,7 @@
+git clone https://github.com/RAVEN-COMMUNITY123/PIKACHU-SATURNUS1.git
+pip install pystyle
+pip install asciimatics
+cd PIKACHU-SATURNUS1
+python3 PIKACHU-SATURNUS
+
+
